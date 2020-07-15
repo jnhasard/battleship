@@ -1,0 +1,14 @@
+.log-box {
+  text-align: left;
+  margin-top: 30px;
+}
+
+.log-text {
+  overflow: auto;
+  height: 220px;
+  background-color: rgb(235, 227, 227);
+}
+
+li {
+  margin-top: 10px;
+}
